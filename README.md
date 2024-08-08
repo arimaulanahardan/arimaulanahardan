@@ -6,8 +6,8 @@
 
 ## I'm Software Engineering Student
 
-- 🌱 I’m currently learning **React JS, Javascript, TypeScript, Web Design**
-- 💥 Familiar with **Web3, Smart Contract, BlockChain**
+- 🌱 I’m currently learning **Web3, Smart Contract, Ai Engineer, Front End Engineer**
+- 💥 Familiar with **ReactJS, Javascript/TypeScript, UI/UX Design, QA Engineer**
 - 👯 I’m looking forward to collaborate with other programmer
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: While sleep, I have many more inspirations
