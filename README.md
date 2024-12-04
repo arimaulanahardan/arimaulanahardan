@@ -7,9 +7,9 @@
 ## I'm Software Engineering Student
 
 - 🌱 I’m currently learning **Web3, Smart Contract, Ai Engineer, Front End Engineer**
-- 💥 Familiar with **ReactJS, Javascript/TypeScript, UI/UX Design, QA Engineer**
+- 💥 Familiar with **ReactJS, Javascript/TypeScript, UI/UX Design**
 - 👯 I’m looking forward to collaborate with other programmer
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: While sleep, I have many more inspirations
 - 📫 Feel free to contact me at **arimaulanahardan@gmail.com**
 
@@ -32,7 +32,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python) -->
 <!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) -->
 <!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
@@ -45,18 +45,18 @@
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![Gin](https://img.shields.io/static/v1?style=for-the-badge&message=Gin&color=008ECF&logo=Gin&logoColor=FFFFFF&label=) -->
 ![React JS](https://img.shields.io/static/v1?style=for-the-badge&message=React+JS&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
-![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
+<!-- ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=222222&logo=Create+React+App&logoColor=09D3AC&label=) -->
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![CodeIgniter](https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=EF4223&logo=CodeIgniter&logoColor=FFFFFF&label=)
 <!-- ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Sequelize](https://img.shields.io/static/v1?style=for-the-badge&message=Sequelize&color=222222&logo=Sequelize&logoColor=52B0E7&label=) -->
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
-![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
+<!-- ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=) -->
 
  ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
+<!-- ![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=) -->
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 <!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  -->
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,11 +80,7 @@
 
 ### ⚡Github Stats
 #### Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=arimaulanahardan&&show_icons=true&count_private=true&theme=radical"/>|<img alt="arimaulanahardan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaulanahardan&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />|
-|---|---|
-
-#### Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arimaulanahardan&theme=radical"/>
+<img alt="arimaulanahardan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaulanahardan&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />
 
 ### Github Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arimaulanahardan&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
