@@ -82,5 +82,3 @@
 #### Statistics
 <img alt="arimaulanahardan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaulanahardan&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />
 
-### Github Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arimaulanahardan&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
