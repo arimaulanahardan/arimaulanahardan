@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer (form UI UX Design to Frontend Focus and became Fullstack)
+- 💻 Software Engineer (form UI UX Design to Frontend and became Fullstack)
 - ⚡ I’m not just staff, I’m your partner
 - 🔥 Tech: React, Next.js, TypeScript
 - 🤝 Open to collaboration & building impactful products
@@ -22,9 +22,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ari-maulana-hardan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/755360971350081537">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:arimaulanahardan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
