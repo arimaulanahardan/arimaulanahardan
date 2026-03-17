@@ -54,35 +54,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arimaulanahardan&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arimaulanahardan&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaulanahardan&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arimaulanahardan&theme=react-dark" />
 
 ---
-
-## 🎧 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" width="350" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/arimaulanahardan/arimaulanahardan/blob/output/github-contribution-grid-snake.svg)
